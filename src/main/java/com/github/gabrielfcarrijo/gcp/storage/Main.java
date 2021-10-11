@@ -23,8 +23,8 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class Main {
 
-  private static final String PROJECT_ID = "capable-memory-328313";
-  private static final String BUCKET_NAME = "order-management_reverse-tracking_correios-contracts";
+  private static final String PROJECT_ID = "";
+  private static final String BUCKET_NAME = "";
   private static final ObjectMapper MAPPER = new ObjectMapper();
   private static final String OBJECT_NAME_PATTERN = "%s_%s.json";
 
